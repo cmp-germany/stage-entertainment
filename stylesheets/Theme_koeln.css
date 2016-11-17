@@ -8937,9 +8937,9 @@ body form {
 }
 /* line 15, ../sass/_navbar.sass */
 .navbar .navbar-brand__image {
-  height: 60px;
-  width: 60px;
-  margin: -10px;
+  height: 45px;
+  width: 45px;
+  margin-top: -3px;
 }
 
 /* line 20, ../sass/_navbar.sass */

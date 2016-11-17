@@ -10,12 +10,12 @@ window.contentLandingPage = [
     },
     pictures: {
       background: {
-        src: "gfx/landing-hintergrund.jpg",
-        positionX: "100%",
+        src: "https://source.unsplash.com/6CTgu2lP_c0/1920x638",
+        positionX: "50%",
         positionY: "50%"
       },
       motiv: {
-        src: "gfx/flieger-junge.png"
+        
       }
     },
     inputFields: [
