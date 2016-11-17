@@ -3,7 +3,7 @@ window.contentLandingPage = [
     contents: {
       title: "Erleben Sie jetzt die grenzenlose Welt von Stage Entertainment.",
       text:
-        "Werden Sie Teil einer Community, die alles, was auf der Bühne passiert, liebt. Finden Sie die passemdem Angebote für sich selbst, teilen Sie ihr Leidenschaft mit Freunden und profitieren Sie von einmaligen und exklusiven Aktionen.",
+        "Werden Sie Teil einer Community, die alles, was auf der Bühne passiert, liebt. Finden Sie die passendem Angebote für sich selbst, teilen Sie ihr Leidenschaft mit Freunden und profitieren Sie von einmaligen und exklusiven Aktionen.",
       formTitle: "Registrieren Sie sich jetzt. Kostenlos.",
       buttonAdditionalText: 'Per Klick auf "Jetzt Mitglied werden" stimmen Sie unseren AGB und Datenschutzrichtlinien zu.',
       buttonText: "Jetzt Mitglied werden"
@@ -21,29 +21,7 @@ window.contentLandingPage = [
     inputFields: [
       {
         inputType: "text",
-        label: "Name des Unternehmens"
-      },
-      {
-        inputType: "select",
-        options: [
-          "Kategorie 1",
-          "Kategorie 2",
-          "Kategorie 3",
-          "Kategorie 4"
-        ]
-      },
-      {
-        inputType: "select",
-        options: [
-          "Branche 1",
-          "Branche 2",
-          "Branche 3",
-          "Branche 4"
-        ]
-      },
-      {
-        inputType: "text",
-        label: "Benutzername"
+        label: "Vor- und Nachname"
       },
       {
         inputType: "email",
