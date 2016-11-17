@@ -1,10 +1,10 @@
 window.contentLandingPage = [
   { module: "TitleWithRegisterForm",
     contents: {
-      title: "Treten Sie jetzt mit der Kölner Gründerszene in Kontakt!",
+      title: "Erleben Sie jetzt die grenzenlose Welt von Stage Entertainment.",
       text:
-        "Werden Sie Teil der Startup Szene und treten Sie einem internationalem Portal bei. Hier finden Sie alle Möglichkeiten, die Sie für Ihr aufstrebendes Unternehmen brauchen: Kommunizieren Sie mit Gleichgesinnten, tauschen Sie Ihr Wissen aus, finden Sie Ihre Kunden und entdecken Sie die Finanzierungsmöglichkeiten, die Ihrer Geschäftsidee den nötigen Boost verleihen.",
-      formTitle: "Kostenlos registrieren und ein Jahr unverbindlich testen.",
+        "Werden Sie Teil einer Community, die alles, was auf der Bühne passiert, liebt. Finden Sie die passemdem Angebote für sich selbst, teilen Sie ihr Leidenschaft mit Freunden und profitieren Sie von einmaligen und exklusiven Aktionen.",
+      formTitle: "Registrieren Sie sich jetzt. Kostenlos.",
       buttonAdditionalText: 'Per Klick auf "Jetzt Mitglied werden" stimmen Sie unseren AGB und Datenschutzrichtlinien zu.',
       buttonText: "Jetzt Mitglied werden"
     },
