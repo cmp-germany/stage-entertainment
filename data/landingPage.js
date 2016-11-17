@@ -3,7 +3,7 @@ window.contentLandingPage = [
     contents: {
       title: "Erleben Sie jetzt die grenzenlose Welt von Stage Entertainment.",
       text:
-        "Werden Sie Teil einer Community, die alles, was auf der Bühne passiert, liebt. Finden Sie die passendem Angebote für sich selbst, teilen Sie ihr Leidenschaft mit Freunden und profitieren Sie von einmaligen und exklusiven Aktionen.",
+        "Werden Sie Teil einer Community, die alles, was auf der Bühne passiert, liebt. Finden Sie die passendem Angebote für sich selbst, teilen Sie ihre Leidenschaft mit Freunden und profitieren Sie von einmaligen und exklusiven Aktionen.",
       formTitle: "Registrieren Sie sich jetzt. Kostenlos.",
       buttonAdditionalText: 'Per Klick auf "Jetzt Mitglied werden" stimmen Sie unseren AGB und Datenschutzrichtlinien zu.',
       buttonText: "Jetzt Mitglied werden"
@@ -15,7 +15,7 @@ window.contentLandingPage = [
         positionY: "50%"
       },
       motiv: {
-        
+
       }
     },
     inputFields: [
@@ -40,17 +40,17 @@ window.contentLandingPage = [
   { module: "KeyFeatures",
     features: [
       {
-        title: "Firmenprofil anlegen",
-        text: "Zeigen Sie, was Sie unverwechselbar macht. Legen Sie ein Firmenprofil an, das Ihre Angebote und Leistungen beschreibt und stellen Sie sich und Ihre Mitarbeiter den anderen Plattformmitgliedern vor.",
-        icon: "business",
+        title: "Exklusive Aktionen",
+        text: "Entdecken Sie die ganze Welt von Stage Entertainment. Und das alles zu exklusiven Sonderkonditionen.",
+        icon: "euro_symbol",
         button: {
           text: "Jetzt registrieren",
           url: "#register-form"
         }
       },
       {
-        title: "Zielgruppe finden",
-        text: "Schlagwortsuche, Active Matching und Gruppen der Plattform helfen Ihnen, zu Ihren konkreten Anliegen die richtigen Ansprechpartner auf der Plattform zu finden.",
+        title: "Mit Freunden teilen",
+        text: "Ein Erlebnis möchte selten für sich behalten werden. Teilen Sie Ihre besten momente mit Freunden, die Ihre Leidenschaft teilen.",
         icon: "group",
         button: {
           text: "Jetzt registrieren",
@@ -60,11 +60,11 @@ window.contentLandingPage = [
     ]
   },
   { module: "SlideStatement",
-    title: "Wir vernetzen Know-how. Schnell, sicher, erfolgreich.",
+    title: "Willkommen in ihrer persönlichen Welt des Entertainments.",
     background: {
-      src: "gfx/fotolia_110376588.jpg",
-      positionX: "90%",
-      positionY: "50%"
+      src: "https://source.unsplash.com/Q14J2k8VE3U/1920x638",
+      positionX: "50%",
+      positionY: "90%"
     }
   },
   { module: "People",
