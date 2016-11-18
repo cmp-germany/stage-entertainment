@@ -3,7 +3,7 @@ window.contentLandingPage = [
     contents: {
       title: "Erleben Sie jetzt die grenzenlose Welt von Stage Entertainment.",
       text:
-        "Werden Sie Teil einer Community, die alles, was auf der Bühne passiert, liebt. Finden Sie die passendem Angebote für sich selbst, teilen Sie ihre Leidenschaft mit Freunden und profitieren Sie von einmaligen und exklusiven Aktionen.",
+        "Werden Sie Teil einer Community, die alles, was auf der Bühne passiert, liebt. Finden Sie die passendem Angebote für sich selbst, teilen Sie Ihre Leidenschaft mit Freunden und profitieren Sie von einmaligen und exklusiven Aktionen.",
       formTitle: "Registrieren Sie sich jetzt. Kostenlos.",
       buttonAdditionalText: 'Per Klick auf "Jetzt Mitglied werden" stimmen Sie unseren AGB und Datenschutzrichtlinien zu.',
       buttonText: "Jetzt Mitglied werden"
@@ -50,7 +50,7 @@ window.contentLandingPage = [
       },
       {
         title: "Mit Freunden teilen",
-        text: "Ein Erlebnis möchte selten für sich behalten werden. Teilen Sie Ihre besten momente mit Freunden, die Ihre Leidenschaft teilen.",
+        text: "Ein Erlebnis möchte selten für sich behalten werden. Teilen Sie Ihre besten Momente mit Freunden, die Ihre Leidenschaft teilen.",
         icon: "group",
         button: {
           text: "Jetzt registrieren",
@@ -60,7 +60,7 @@ window.contentLandingPage = [
     ]
   },
   { module: "SlideStatement",
-    title: "Willkommen in ihrer persönlichen Welt des Entertainments.",
+    title: "Willkommen in Ihrer persönlichen Welt des Entertainments.",
     background: {
       src: "https://source.unsplash.com/Q14J2k8VE3U/1544x1024",
       positionX: "50%",
